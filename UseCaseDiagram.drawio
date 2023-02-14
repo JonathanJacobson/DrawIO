@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T13:38:39.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="91hhijW2v-0sYlm8FMD-" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T14:02:53.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RhfYDzrUcp3TP9YI-_WU" version="20.8.17" type="github">
   <diagram name="Page-1" id="6x6TZbseE-QPOk2Tuv7f">
-    <mxGraphModel dx="2100" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,7 +135,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-1" value="Artwork&amp;nbsp;tracker - use cases" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;width=200;height=30;fontColor=#000099;strokeColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="890" y="140" width="500" height="1140" as="geometry" />
+          <mxGeometry x="890" y="140" width="500" height="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.022;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#ff8000;strokeWidth=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="aFN2-VFNgICGjjfd_nI_-2" target="aFN2-VFNgICGjjfd_nI_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-2" value="Driver" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeWidth=4;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="820" y="359" width="30" height="60" as="geometry" />
@@ -156,43 +159,43 @@
           <mxGeometry x="820" y="669" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-9" value="Login" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="192.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="192.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-10" value="View&amp;nbsp;Homepage" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="303" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="286" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-11" value="Track Updates" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="413" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="700" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-12" value="View Artwork Transport Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="523" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="838" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-13" value="View Artwork Conditions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="633" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="948" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-14" value="View&amp;nbsp;Artwork Receipt" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="743" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="1058" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-15" value="View Chat Forum" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="853" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="1138" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-16" value="View Contacts List" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="963" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="380" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-17" value="View&amp;nbsp;Step Completed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1073" width="100" height="55" as="geometry" />
+          <mxGeometry x="952" y="1219" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-18" value="View Access Control" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1183.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="304" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-22" value="Verify Password" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="155" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="155" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;endArrow=classic;endFill=1;entryX=0.917;entryY=0.779;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="aFN2-VFNgICGjjfd_nI_-23" target="aFN2-VFNgICGjjfd_nI_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-23" value="Display Login Error" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="221" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="221" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-25" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;endFill=1;" edge="1" parent="1" source="aFN2-VFNgICGjjfd_nI_-9" target="aFN2-VFNgICGjjfd_nI_-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -201,22 +204,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-27" value="Upload&lt;br&gt;Transport Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="463.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="778.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-28" value="Download&lt;br&gt;Transport Details" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="523.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="838.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-29" value="Upload&lt;br&gt;Artwork Conditions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="596" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="911" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-30" value="Download&lt;br&gt;Artwork Conditions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="655.5" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="970.5" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-31" value="Upload&lt;br&gt;Artwork Receipt" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="731" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="1046" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aFN2-VFNgICGjjfd_nI_-32" value="Download&lt;br&gt;Artwork Receipt" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="790" width="100" height="55" as="geometry" />
+          <mxGeometry x="1238" y="1105" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-33" value="Create Project" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="380" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-34" value="Create Contact" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="380" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-35" value="Track Journey and Location" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="642" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-36" value="Track Temperature" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="701" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-37" value="Track Humidity" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="761" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-38" value="Add / Edit Chat Message" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1138" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-39" value="Add / Update Step Completed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1219" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-40" value="Edit Departure Date and Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="587" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-41" value="Edit Arrival Date and Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1238" y="654.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-42" value="Use Against Departure Date and Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1185.25" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-43" value="Use Against Arrival Date and Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1252.75" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aFN2-VFNgICGjjfd_nI_-44" value="Register User:&amp;nbsp;providing their name, surname, institution, institution type, email, telephone, and password" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="465.5" width="240" height="89.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
